@@ -1,0 +1,22 @@
+{
+  "name": "propertyregistration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.8",
+    "@emotion/styled": "^11.10.8",
+    "@mui/styled-engine": "^5.12.3",
+    "@openzeppelin/contracts": "^4.8.3",
+    "openzeppelin-solidity": "^2.2.0"
+  }
+}
